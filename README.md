@@ -8,7 +8,7 @@ In these scripts you'll find code for:
 - Statistical analyses of movement data using ANOVA and generalized linear models
 - Publication quality plots produced with ggplot2
  
-*Once the paper is published, I will update this readme with a direct link.*
+The paper can be found here: https://link.springer.com/article/10.1007/s10905-019-09711-2
 
 ### Background
 In an effort to better understand the movement ecology of gypsy moth caterpillars, I raised them on different types of food and under different food deprivation protocols and then put them on a servosphere. A servosphere is a cool piece of equipment that's basically like a treadmill for insects. This treadmill consists of a large sphere that sits on top of three orthogonal motors. A camera positioned above the sphere monitors the insect on top and as the insect moves, the software for the sphere takes information from the camera and directs the motors to rotate, moving the ball and keeping the insect on top. The software records the position of the insect as it moves so you can reconstruct its movement path. You can export this data to a .csv file and using the position data, calculate movement variables like velocity and turn angle. 
